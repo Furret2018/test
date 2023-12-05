@@ -1,3 +1,17 @@
+
+https://www.youtube.com/watch?v=2S-tJaPKFdQ&list=PL-X74YXt4LVZ137kKM5dNfCIC4tsScerb
+```
+C++ Primer 5th (C++ 11)
+The C++ Programming Language 4th (C++ 11)
+
+effective C++ 3rd edition
+Effective C++中文版 （55个有效做法）
+
+
+Youth smiles for no reason. It is one of its chiefest charms.  青春带来无缘无故的微笑，这是它最主要的魅力之一。
+```
+
+
 https://www.cnblogs.com/7-58/p/13328148.html	Linux shadow文件中密码的加密方式
 
 
