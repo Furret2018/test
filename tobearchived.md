@@ -1,6 +1,58 @@
 # CE
 https://www.youtube.com/watch?v=dws7I6oyILs&list=PLm1l7iw_AEM4tJh_hSIem1uOLxa2yCjy5  CE / Cheat Engine新手入门教程（上篇） 单机游戏修改器教学    
-https://www.youtube.com/watch?v=lGjhhpvdziQ   Cheat Engine高阶教程 CE新手入门教程（下篇）Auto Assembler脚本    
+https://www.youtube.com/watch?v=lGjhhpvdziQ   Cheat Engine高阶教程 CE新手入门教程（下篇）Auto Assembler脚本       
+
+
+
+
+# CE教学从入门到高级[共14集]
+https://www.youtube.com/watch?v=w1rWnhbt9pQ&list=PLI4M3hzWH-GLRehjg_R8dhlkfbQrlMcBF		
+https://www.youtube.com/watch?v=vjyzXHee50k		指针自动扫描及技巧  pvfnp.com  QQ641673288
+https://www.youtube.com/watch?v=zasAtlmHXAk		利用共用代码段，（代码访问了地址）对象/相似（相邻）物品的地址。
+
+
+CE修改内存中的汇编代码
+https://www.youtube.com/watch?v=RR0bDIdAfSc		AOB注入     
+AOB = Array of bytes Injection  特征码注入         类似于hook     
+
+AOB的特点 ：    
+1) 好处： 使用特征码来注入内存，不用每一次开游戏重新手动改写汇编代码
+2） 有些代码是动态装入的，所以需要将特定事件触发，相关代码才被装入内存，所以有时开机后就激活脚本不一定成功。
+
+
+多开扫描窗口，查到共同代码，   
+内存查看器，下断，分析寄存器中值的特征    
+分析数据结构   
+
+
+https://www.youtube.com/watch?v=fGoNdQhph4Y		小技巧    
+页眉 （右键创建组，右键手动屏开收缩）    
+变速器（通常只有单机可用）   
+
+
+
+
+
+
+
+
+## TIPS 
+自动指针扫描，记得要保存结果到x.ptr文档。得到的结果太多的话，       
+1）可以小退至选人界面，    
+2）重启游戏 
+3）重启电脑    
+
+游戏安全思路：    
+1) 正常思路都是数据内存对齐的，但是可能开发者禁用优化，则将快速扫描开关各扫描一次       
+2) 有些看起来是整数的，实际使用了浮点数      
+3) 有些面板数值看起来是1，但是实际可能是经过加密的，比如可能实际值是0，使用了x+1得到真实值，也可能是其他运算，比如异或，乘除，或者 （x+offset1）*offset2等       
+
+
+序列排列的物品，指针也可能是等差数列，实现数据可能是数组对象类        
+cehigh.com      
+
+
+
 
 
 
