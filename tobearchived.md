@@ -29,6 +29,11 @@ https://www.youtube.com/watch?v=fGoNdQhph4Y		小技巧
 页眉 （右键创建组，右键手动屏开收缩）    
 变速器（通常只有单机可用）   
 
+https://www.youtube.com/watch?v=28BCaV2dzGc  8 调用游戏自身的CALL    
+分析死亡Call，传入的应该是对象的地址 （push esi）   
+
+死亡Call地址， 构造函数指针  fn = 死亡Call()   
+传入敌方对象地址，那么就第三方就死了。   
 
 
 
