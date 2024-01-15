@@ -1,3 +1,8 @@
+# CE
+https://www.youtube.com/watch?v=dws7I6oyILs&list=PLm1l7iw_AEM4tJh_hSIem1uOLxa2yCjy5  CE / Cheat Engine新手入门教程（上篇） 单机游戏修改器教学    
+https://www.youtube.com/watch?v=lGjhhpvdziQ   Cheat Engine高阶教程 CE新手入门教程（下篇）Auto Assembler脚本    
+
+
 
 https://pan.baidu.com/share/link?shareid=296802&uk=489677674
 https://yun.baidu.com/s/1sjGzSfF#list/path=%2F
