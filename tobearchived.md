@@ -1,3 +1,127 @@
+https://www.51test.net/show/10098223.html
+
+
+
+
+
+
+
+
+
+https://support.huawei.com/enterprise/zh/doc/EDOC1100271720/2b1cdfb3
+
+https://zhuanlan.zhihu.com/p/31818077
+
+
+https://www.liblib.art/modelinfo/5343323eda0642e0a23b41d33f3dfef1
+https://blog.csdn.net/shulianghan/article/details/129252790
+https://c.biancheng.net/css3/font.html
+https://www.cnblogs.com/weifeng1463/p/10439178.html
+https://www.geogebra.org/calculator
+https://kb.avaya.com/kb/index?page=content&id=SOLN376458
+https://jobs.51job.com/suzhou-gyyq/153975715.html?timestamp__1258=n4fx2D9G0Qit5GKDsD7mK0%3DIcrc8WYDRYD
+
+https://www.liblib.art/?sourceId=000269&track_id=pbaes.QESZbH7EoX2H5C_-fzqEb57g9d8w3OjxhNG7jTrmd6fypX5NcfgJU9Krz7J7bcPOsfUZddOSqCkbc4oH4K8sDdqbZ8F_5jxd_epogUOp6t6ULZYnEwbcpLwW9Jqcxlt3x7uKrSMQmQfeBPiVhtGz9AIKZd3Ed1AQc9l0Z53OIRpFm5lLn-QPIY9T2HD2mCpNr59PZrOVkol4smkYo4385g
+
+https://www.liblib.art/?sourceId=000186&track_id=pbaes.QESZbH7EoX2H5C_-fzqEb57g9d8w3OjxhNG7jTrmd6fypX5NcfgJU9Krz7J7bcPOScPYMtcYenjNZzZHIu2pMAXkfSDX-ecPhnY4-q7cdt2cx4T1uH1xhN7VHUZHCjcDeGJsFiKZR-TydDCVqmp8mbWsVF7ziJ3eZgILd8g-ZDIbq6h1WuaADBk0fnagWuv-
+
+https://www.liblib.art/?sourceId=000174&track_id=pbaes.QESZbH7EoX2H5C_-fzqEb57g9d8w3OjxhNG7jTrmd6fypX5NcfgJU9Krz7J7bcPOScPYMtcYenjNZzZHIu2pML-QgsjL0uBZh2dtcaiuGTLnexq_Gr4pLqJ8awdTahIDaLb6yaX89HYyiEgeJEOv9z2GZgpPxqagnT3ApdogiQQl1g_pTF9Wn2E7Yy9theDi
+
+# EN
+https://www.msn.com/en-sg/health/other/mother-of-3-in-china-dies-during-liposuction-surgery-after-medical-staff-assume-monitor-warning-alarm-is-faulty/ar-BB1kFrRc?ocid=entnewsntp&pc=U531&cvid=2bb2b7467fe44ea3a3d02bd70854e826&ei=26
+https://www.msn.com/en-sg/lifestyle/other/attractive-china-pig-farm-worker-26-becomes-internet-sensation-after-quitting-office-job-to-work-with-animals/ar-BB1lKQ2A?ocid=entnewsntp&pc=U531&cvid=347088c0ee49471f9f8dd3bde64d3442&ei=25
+
+https://www.msn.com/en-sg/news/other/two-former-female-college-hockey-stars-sidney-capolino-and-meghan-moore-are-shot-dead-inside-their-florida-apartment-by-a-boyfriend-before-he-turned-the-gun-on-himself/ar-BB1kat4E?ocid=entnewsntp&pc=U531&cvid=4e1c184d6d8248b18b1c1b8f23382c78&ei=73
+
+
+https://www.msn.com/en-sg/lifestyle/other/owner-of-well-known-chinese-spicy-snack-brand-keeps-family-wealth-secret-from-son-until-he-is-in-twenties-wants-him-to-be-down-to-earth/ar-BB1ksPYq?ocid=entnewsntp&pc=U531&cvid=5ed63fd4ab184953b5cf2ca5a47135f1&ei=34
+
+https://www.msn.com/en-sg/lifestyle/other/talented-china-girl-12-teaches-college-level-maths-online-attracts-2-9-million-followers-and-sparks-debate-about-child-prodigies/ar-BB1k54u7?ocid=entnewsntp&pc=U531&cvid=179402d07cea43f79bf85f64733d0c05&ei=17
+
+https://www.msn.com/en-sg/lifestyle/other/china-teacher-turned-influencer-famous-for-cute-kindergarten-song-caught-up-in-us-7-000-for-sex-rumours-calls-in-police/ar-BB1jGqTi?ocid=entnewsntp&pc=U531&cvid=4a7ef96021c1435689177551fb2ef0df&ei=8
+
+
+https://www.msn.com/en-sg/lifestyle/other/ah-girls-go-army-actress-shirli-ling-opens-up-about-being-a-grandma-at-34-after-oldest-son-became-a-father-at-17/ar-BB1jKh8j?ocid=entnewsntp&pc=U531&cvid=140f8a55bd9b4b9996695969e45e15ea&ei=20
+
+
+
+
+https://www.cnblogs.com/feiyang0315/articles/17669498.html
+https://baike.baidu.com/item/%E6%94%AF%E8%B7%AF%E5%8D%95%E5%85%83
+https://easylearn.baidu.com/edu-page/tiangong/bgkdetail?id=c24b68f1941ea76e58fa04be&fr=search
+
+ATM技术中最重要的特点就是信元的复用、交换和传输过程,均在虚信道（VC）上进行
+虚通道（VP）是在给定参考点上具有同一虚通道标识符的一组虚信道
+https://easylearn.baidu.com/edu-page/tiangong/questiondetail?id=1733336851276716245&fr=search
+https://baike.baidu.com/item/%E4%BB%B2%E8%A3%81%E5%99%A8
+https://baike.baidu.com/item/ATM%E4%BF%A1%E5%85%83
+https://baike.baidu.com/item/%E8%99%9A%E9%80%9A%E9%81%93/5925198?fr=ge_ala
+https://easylearn.baidu.com/edu-page/tiangong/bgkdetail?id=133d641710a6f524ccbf85e3&fr=search
+https://zhuanlan.zhihu.com/p/408911169
+https://www.bootwiki.com/python/python-func-input.html
+https://so.gushiwen.cn/mingju/juv_79974e819956.aspx
+https://www.iciba.com/word?w=%E6%B8%85%E6%98%8E%E8%8A%82
+https://kaifa.baidu.com/searchPage?wd=python%20input&hmsr=aladdin&type=language
+
+
+github: 370402166@qq.com Aura202205
+google: ciao1848@gmail.com Md20220729
+
+
+178.com: GoodDeliver	Nga19881201
+17zwd.com: 15995657218	19881201
+
+http://192.168.1.1	user	Aura2020
+http://192.168.2.1			r7834mh5            | Furret2018	Aura2022
+51zxw.net	xiaobaigua	Ferret2018
+
+
+https://support.huawei.com/enterprise/zh/doc/EDOC1100271720/a4720a99
+https://explainshell.com/
+https://excalidraw.com/		ELK Stack
+https://chat.openai.com/
+https://www.latexlive.com/home##
+https://www.boxuegu.com/course/outline-1335.html
+https://huaban.com/pins/5640895097
+https://g.nga.cn/read.php?tid=39513080&page=1&rand=516
+https://blog.csdn.net/u011888840/article/details/111321691
+
+
+
+# 无穷小
+https://www.zhihu.com/question/553152715?utm_id=0
+https://www.bilibili.com/read/cv22050468/
+https://zhuanlan.zhihu.com/p/506116330
+https://zhuanlan.zhihu.com/p/418871855
+
+
+https://wenku.baidu.com/view/0b55a031f221dd36a32d7375a417866fb94ac051.html?_wkts_=1713339861703&bdQuery=%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E%E9%A2%98+%E7%BC%A9%E6%94%BE%E8%AF%81%E6%98%8E&needWelcomeRecommand=1
+https://learning.sohu.com/a/728051117_121124333
+https://qb.zuoyebang.com/xfe-question/question/0f4b1e1216744cf43dfeb40532e5bac6.html
+https://easylearn.baidu.com/edu-page/tiangong/exercisedetail?id=ca0300dddf80d4d8d15abe23482fb4daa48d1d63&fr=search
+
+江苏新高考高中有8册数学书
+《集合与函数》《三角函数》《不等式》《数列》《复数》《排列、组合、二项式定理》《立体几何》《平面解析几何》、必修一到五、选修一到四。
+《高中数学必修1》，即《普通高中课程标准实验教科书·数学必修1·A版》的简称）是2007年人民教育出版社出版的图书，作者是人民教育出版社课题材料研究所、中学数学课程教材研究开发中心。该书是高中数学学习阶段顺序必修的第一本教学辅助资料。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CE
 https://www.youtube.com/watch?v=dws7I6oyILs&list=PLm1l7iw_AEM4tJh_hSIem1uOLxa2yCjy5  CE / Cheat Engine新手入门教程（上篇） 单机游戏修改器教学    
 https://www.youtube.com/watch?v=lGjhhpvdziQ   Cheat Engine高阶教程 CE新手入门教程（下篇）Auto Assembler脚本       
