@@ -1,0 +1,49 @@
+https://learn.microsoft.com/zh-cn/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+https://learn.microsoft.com/zh-cn/training/modules/describe-cloud-compute/
+
+
+
+
+
+RAID 
+
+
+[root@MS83CNCHENGDUAVCDOM certs]# openssl x509 -in cdom.crt -noout -dates
+notBefore=May 13 23:00:34 2024 GMT
+notAfter=May 11 23:00:34 2034 GMT
+
+
+
+
+
+https://easylearn.baidu.com/edu-page/tiangong/questiondetail?id=1766069592293062744&fr=search
+https://learn.microsoft.com/zh-cn/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals
+
+
+	The issue caused by the value violated the integrity constraints for the column in SQL database. Restarted Contact Database ETL job and the issue got fixed.
+
+余弦定理证明
+https://upimg.baike.so.com/doc/5377655-5613792.html
+
+https://localsite.baidu.com/okam/pages/article/index?categoryLv1=%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD&ch=54&srcid=10004&strategyId=130518011593579&source=natural
+余弦公式cos公式大全如下：
+
+1、诱导公式：cos（-a）= cos（a）、cos（-π/2）= 0、cos（π/2）= 0、cos（π） = -1、cos（2π)）= 1。
+
+2、两角和与差的余弦公式：cos（a+b)）= cos（a）cos（b）-sin（a）sin（b）、cos（a-b） = cos（a）cos（b）+sin（a）sin（b）。
+
+
+
+3、和差化积公式：sin（a）+sin（b） = 2sin（（a+b）/2）cos（（a-b）/2）、sin（a）-sin（b） = 2cos（（a+b）/2）sin（（a-b）/2）。
+
+4、倍角公式：cos（2a） = cos^2（a）-sin^2（a）、cos（2a） = 1-2sin^2（a）、cos（2a)）= 2cos^2（a）-1。
+
+5、半角公式：cos（a/2)）= ±√【（1+cos（a））/2】、sin（a/2） = ±√【（1-cos（a））/2】、tan（a/2） = ±√【（1-cos（a））/sin（a）】。
+
+
+
+6、积化和差公式：sin（a）sin（b） = 【cos（a-b）-cos（a+b）】/2、cos（a）cos（b） = 【cos（a-b）+cos（a+b）】/2。
+
+7、正弦定理：sin（A）/a = sin（B）/b = sin（C）/c。
+
+8、余弦定理：c^2 = a^2+b^2-2abcos（C）。
