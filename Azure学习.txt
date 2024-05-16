@@ -47,3 +47,56 @@ https://localsite.baidu.com/okam/pages/article/index?categoryLv1=%E6%95%99%E8%82
 7、正弦定理：sin（A）/a = sin（B）/b = sin（C）/c。
 
 8、余弦定理：c^2 = a^2+b^2-2abcos（C）。
+
+
+
+find /var/lib/pgsql/9.4-bdr/data/pg_xlog -name "000000010000000*"|sort|head -n -10|xargs rm -rf
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+https://www.zhihu.com/question/288979943/answer/3158983347
+https://support.forcepoint.com/s/article/000015900
+https://blog.csdn.net/weixin_42197110/article/details/116864024
+https://www.landui.com/help/show-4263.html
+https://www.huoban.com/news/post/13852.html
+
+https://www.cyberciti.biz/tips/linux-how-to-find-all-failed-login-attempts.html
+
+
+https://www.cnblogs.com/archoncap/p/5887340.html
+https://www.cnblogs.com/heian99/p/15778063.html
+https://cloud.tencent.com/developer/article/1846689
+
+
+https://www.wolframalpha.com/input?i=limit+of+%28x+-+3%29+%2F+%28x%5E2+-+2x+-+3%29+as+x+approaches+3
+https://www.sohu.com/a/749426320_121267395
+https://zh.planetcalc.com/1035/?thanks=1
+https://zs.symbolab.com/solver/one-sided-limit-calculator
+https://zh.planetcalc.com/search/?tag=16501
+https://zs.scibug.com/solver/limit-substitution-calculator
+https://mathdf.com/lim/cn/
+https://zh.numberempire.com/limitcalculator.php?function=lim&amp;var=x&amp;val=0&amp;limit_type=two-sided
+https://zh.planetcalc.com/search/?pattern=&operation=&section=16529&tag=
+https://blog.csdn.net/scdxmoe/article/details/78663232
+https://zhuanlan.zhihu.com/p/266472686?utm_source=wechat_session&utm_id=0
+https://www.wolframalpha.com/input?i=limit+%282*n%5E%281%2Fn%29-1%29%5En%2Fn%5E2+as+n-%3Einfinity
+
+https://www.latexlive.com/home##
+\begin{align}
+&已知 \lim_{x \to \infty} \left( \frac{2x^2+5}{x-1}+ax+b \right) = 3，求常数a，b。\\
+
+& 尝试原式拆成两部分，\\
+& \lim_{x \to \infty} \left( \frac{2x^2+5}{x-1} \right) 不存在（\frac{\infty }{\infty} 型，洛）\\
+& \lim_{x \to \infty} (ax+b) 不存在。\\
+& 尝试分式分离出常数，不行（估计此类题一般不会考分离尝试这么简单的点） 分离常数不行。\\
+& 尝试通分，将整个式子变成分式 通分并整理后得 \\
+ 原式 &= \lim_{x\to\infty}  \frac{(a+2)x^2+(b-a)x+5-b}{x-1}  （\frac{\infty }{\infty} 型，洛） \\
+& = \lim_{x\to\infty} \left( 2(a+2)x+b-a \right)  \\
+
+& 故得， \\
+& \left\{\begin{array}{1}
+a + 2=0 \\
+b - a=3 
+\end{array}\right.
+
+\Rightarrow a=-2, b=1
+
+\end{align}
